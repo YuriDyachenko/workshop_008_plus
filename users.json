@@ -1,0 +1,22 @@
+[
+  {"id":1,"name":"Vitalii","fname":"Kotov","county":"Russia","age":29,"is_teen":false},
+  {"id":2,"name":"Oleg","fname":"Ibragimov","county":"USA","age":12,"is_teen":true},
+  {"id":3,"name":"Slava","fname":"Kudinov","county":"Japan","age":39,"is_teen":true},
+  {"id":4,"name":"Natasha","fname":"Olikina","county":"Russia","age":42,"is_teen":false},
+  {"id":5,"name":"Kirill","fname":"Samsonov","county":"Thailand","age":11,"is_teen":true},
+  {"id":6,"name":"Sveta","fname":"Eghova","county":"Russia","age":9,"is_teen":false},
+  {"id":7,"name":"Stas","fname":"Davidov","county":"USA","age":16,"is_teen":false},
+  {"id":8,"name":"Maria","fname":"Murina","county":"Thailand","age":91,"is_teen":true},
+  {"id":9,"name":"Marina","fname":"Lobanova","county":"Russia","age":18,"is_teen":false},
+  {"id":10,"name":"Igor","fname":"Makarov","county":"USA","age":19,"is_teen":true},
+  {"id":11,"name":"Alex","fname":"Kimberg","county":"Russia","age":22,"is_teen":false},
+  {"id":12,"name":"Sergey","fname":"Ableev","county":"Thailand","age":17,"is_teen":true},
+  {"id":13,"name":"Inna","fname":"Ivanova","county":"USA","age":5,"is_teen":false},
+  {"id":14,"name":"Egor","fname":"Smirnov","county":"Thailand","age":20,"is_teen":false},
+  {"id":15,"name":"Sergey","fname":"Menshikov","county":"USA","age":33,"is_teen":true},
+  {"id":16,"name":"Elena","fname":"Zakharova","county":"Russia","age":29,"is_teen":false},
+  {"id":17,"name":"Zena","fname":"Suvorova","county":"USA","age":63,"is_teen":false},
+  {"id":18,"name":"Katerina","fname":"Fedorova","county":"Russia","age":34,"is_teen":true},
+  {"id":19,"name":"Mike","fname":"Makarov","county":"Thailand","age":28,"is_teen":true},
+  {"id":20,"name":"Andrey","fname":"Olegichken","county":"Russia","age":45,"is_teen":false}
+]
